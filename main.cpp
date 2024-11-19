@@ -1,3 +1,5 @@
+//Code by Rose and Josh demonstrating different search functionalities 
+//This program was made by following pair programming procedures
 #include <iostream>
 #include <vector>
 #include <algorithm>
